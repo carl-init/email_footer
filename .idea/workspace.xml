@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24e35d37-0fc2-4f71-b4db-5c41e257965f" name="Changes" comment="Code Clean Up">
-      <change afterPath="$PROJECT_DIR$/jess-footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sally-footer.html" afterDir="false" />
+    <list default="true" id="24e35d37-0fc2-4f71-b4db-5c41e257965f" name="Changes" comment="Added all three html footers to project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carl-footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/carl-footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,23 +33,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.1907824011200698" />
-      <entry key="MS500" value="1.7179723139138818" />
-      <entry key="S2" value="1.9466410744927467" />
-      <entry key="S5" value="2.3205062842517616" />
-      <entry key="S10" value="2.8422399047021942" />
-      <entry key="S30" value="3.8139895488212567" />
-      <entry key="S60" value="5.069128662211301" />
-      <entry key="M2" value="8.009362720406127" />
-      <entry key="M5" value="15.103777129503673" />
-      <entry key="M10" value="24.12131871595154" />
-      <entry key="M15" value="30.579735623311333" />
-      <entry key="M30" value="41.978549059769215" />
-      <entry key="H1" value="51.84055595591777" />
-      <entry key="H2" value="58.828526473590415" />
-      <entry key="H4" value="63.08770419532393" />
-      <entry key="D1" value="67.13037261057825" />
-      <entry key="W1" value="67.87444021953277" />
+      <entry key="MS100" value="1.0076318991146296" />
+      <entry key="MS500" value="1.5968460111190919" />
+      <entry key="S2" value="3.655298165503216" />
+      <entry key="S5" value="6.1041540142400255" />
+      <entry key="S10" value="7.9473355360594455" />
+      <entry key="S30" value="10.26608760062426" />
+      <entry key="S60" value="12.23958017653612" />
+      <entry key="M2" value="15.457003643405413" />
+      <entry key="M5" value="23.488879855227225" />
+      <entry key="M10" value="33.7445718169972" />
+      <entry key="M15" value="41.1859175539467" />
+      <entry key="M30" value="54.47142463200867" />
+      <entry key="H1" value="66.01897590568913" />
+      <entry key="H2" value="74.21632860239885" />
+      <entry key="H4" value="79.22018140247825" />
+      <entry key="D1" value="83.97606208815586" />
+      <entry key="W1" value="84.85214009011514" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -76,23 +71,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9629783748175805" />
-      <entry key="MS500" value="1.6441806650245767" />
-      <entry key="S2" value="1.9251929489057453" />
-      <entry key="S5" value="2.3100696269540117" />
-      <entry key="S10" value="2.8357505885388052" />
-      <entry key="S30" value="3.811117062867826" />
-      <entry key="S60" value="5.067298560240178" />
-      <entry key="M2" value="8.007935269970249" />
-      <entry key="M5" value="15.100391074725877" />
-      <entry key="M10" value="24.114513073933445" />
-      <entry key="M15" value="30.57217921074991" />
-      <entry key="M30" value="41.972159364338395" />
-      <entry key="H1" value="51.83637261993644" />
-      <entry key="H2" value="58.826127077770074" />
-      <entry key="H4" value="63.08641824696555" />
-      <entry key="D1" value="67.13014541196168" />
-      <entry key="W1" value="67.87440743484261" />
+      <entry key="MS100" value="0.966585691700548" />
+      <entry key="MS500" value="1.583759909398273" />
+      <entry key="S2" value="3.6478020724891165" />
+      <entry key="S5" value="6.099118280329585" />
+      <entry key="S10" value="7.944029647648989" />
+      <entry key="S30" value="10.263825508116538" />
+      <entry key="S60" value="12.23715933611652" />
+      <entry key="M2" value="15.45479406714936" />
+      <entry key="M5" value="23.486026360227452" />
+      <entry key="M10" value="33.73902879836169" />
+      <entry key="M15" value="41.17939584105777" />
+      <entry key="M30" value="54.465465034615164" />
+      <entry key="H1" value="66.01489991224014" />
+      <entry key="H2" value="74.21393701127187" />
+      <entry key="H4" value="79.21888473740458" />
+      <entry key="D1" value="83.97583075876176" />
+      <entry key="W1" value="84.85210665343769" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -107,31 +102,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "javascript.preferred.runtime.type.id": "node",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/carl/WebstormProjects/email-footer",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "/home/carl/.config/JetBrains/WebStorm2026.2/node/versions/24.21.0/bin/node",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "copyright.filetypes.HTML",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/carl/WebstormProjects/email-footer&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;/home/carl/.config/JetBrains/WebStorm2026.2/node/versions/24.21.0/bin/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright.filetypes.HTML&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -155,7 +150,9 @@
       <option name="presentableId" value="Default" />
       <updated>1789894591020</updated>
       <workItem from="1789894592062" duration="1108000" />
-      <workItem from="1789897332105" duration="4946000" />
+      <workItem from="1789897332105" duration="5150000" />
+      <workItem from="1789904638854" duration="8000" />
+      <workItem from="1789904656411" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="images created">
       <option name="closed" value="true" />
@@ -197,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789901532790</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added all three html footers to project">
+      <option name="closed" value="true" />
+      <created>1789902934429</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1789902934429</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +224,7 @@
     <MESSAGE value="added scribes logo" />
     <MESSAGE value="1st Code commit" />
     <MESSAGE value="Code Clean Up" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code Clean Up" />
+    <MESSAGE value="Added all three html footers to project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added all three html footers to project" />
   </component>
 </project>
