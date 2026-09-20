@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24e35d37-0fc2-4f71-b4db-5c41e257965f" name="Changes" comment="1st Code commit">
+    <list default="true" id="24e35d37-0fc2-4f71-b4db-5c41e257965f" name="Changes" comment="Code Clean Up">
+      <change afterPath="$PROJECT_DIR$/jess-footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sally-footer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/carl-footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/carl-footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,23 +38,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000000000000006" />
-      <entry key="MS500" value="1.0017837349783607" />
-      <entry key="S2" value="1.3712165252855013" />
-      <entry key="S5" value="2.5672371795345894" />
-      <entry key="S10" value="4.368280321441421" />
-      <entry key="S30" value="8.435474896816455" />
-      <entry key="S60" value="10.683290936034705" />
-      <entry key="M2" value="12.445965682101388" />
-      <entry key="M5" value="15.154586285101825" />
-      <entry key="M10" value="17.82588968775607" />
-      <entry key="M15" value="19.713140523792834" />
-      <entry key="M30" value="23.585739799722504" />
-      <entry key="H1" value="27.405681543400178" />
-      <entry key="H2" value="30.237704348301822" />
-      <entry key="H4" value="31.983164134463394" />
-      <entry key="D1" value="33.64309361954641" />
-      <entry key="W1" value="33.948477636908166" />
+      <entry key="MS100" value="1.1907824011200698" />
+      <entry key="MS500" value="1.7179723139138818" />
+      <entry key="S2" value="1.9466410744927467" />
+      <entry key="S5" value="2.3205062842517616" />
+      <entry key="S10" value="2.8422399047021942" />
+      <entry key="S30" value="3.8139895488212567" />
+      <entry key="S60" value="5.069128662211301" />
+      <entry key="M2" value="8.009362720406127" />
+      <entry key="M5" value="15.103777129503673" />
+      <entry key="M10" value="24.12131871595154" />
+      <entry key="M15" value="30.579735623311333" />
+      <entry key="M30" value="41.978549059769215" />
+      <entry key="H1" value="51.84055595591777" />
+      <entry key="H2" value="58.828526473590415" />
+      <entry key="H4" value="63.08770419532393" />
+      <entry key="D1" value="67.13037261057825" />
+      <entry key="W1" value="67.87444021953277" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -72,23 +76,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7791645796605045" />
-      <entry key="MS500" value="0.9526821039654018" />
-      <entry key="S2" value="1.2453953025035482" />
-      <entry key="S5" value="2.2800114765443458" />
-      <entry key="S10" value="4.005625688193599" />
-      <entry key="S30" value="8.11384983766915" />
-      <entry key="S60" value="10.463440165404515" />
-      <entry key="M2" value="12.316021942718715" />
-      <entry key="M5" value="15.09687237870706" />
-      <entry key="M10" value="17.795940795727642" />
-      <entry key="M15" value="19.692892512855444" />
-      <entry key="M30" value="23.575432172807787" />
-      <entry key="H1" value="27.40046087187097" />
-      <entry key="H2" value="30.23507208963088" />
-      <entry key="H4" value="31.9818415885617" />
-      <entry key="D1" value="33.64287220654755" />
-      <entry key="W1" value="33.948445980853215" />
+      <entry key="MS100" value="0.9629783748175805" />
+      <entry key="MS500" value="1.6441806650245767" />
+      <entry key="S2" value="1.9251929489057453" />
+      <entry key="S5" value="2.3100696269540117" />
+      <entry key="S10" value="2.8357505885388052" />
+      <entry key="S30" value="3.811117062867826" />
+      <entry key="S60" value="5.067298560240178" />
+      <entry key="M2" value="8.007935269970249" />
+      <entry key="M5" value="15.100391074725877" />
+      <entry key="M10" value="24.114513073933445" />
+      <entry key="M15" value="30.57217921074991" />
+      <entry key="M30" value="41.972159364338395" />
+      <entry key="H1" value="51.83637261993644" />
+      <entry key="H2" value="58.826127077770074" />
+      <entry key="H4" value="63.08641824696555" />
+      <entry key="D1" value="67.13014541196168" />
+      <entry key="W1" value="67.87440743484261" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -96,6 +100,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3JaMBYclDfPVmPmRgONthilFkGr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -112,6 +119,7 @@
     "git-widget-placeholder": "master",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/carl/WebstormProjects/email-footer",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -125,6 +133,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
     </key>
@@ -144,7 +155,7 @@
       <option name="presentableId" value="Default" />
       <updated>1789894591020</updated>
       <workItem from="1789894592062" duration="1108000" />
-      <workItem from="1789897332105" duration="3462000" />
+      <workItem from="1789897332105" duration="4946000" />
     </task>
     <task id="LOCAL-00001" summary="images created">
       <option name="closed" value="true" />
@@ -178,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789900811834</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Code Clean Up">
+      <option name="closed" value="true" />
+      <created>1789901532790</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1789901532790</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +218,7 @@
     <MESSAGE value="images created" />
     <MESSAGE value="added scribes logo" />
     <MESSAGE value="1st Code commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st Code commit" />
+    <MESSAGE value="Code Clean Up" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code Clean Up" />
   </component>
 </project>
