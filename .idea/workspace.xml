@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24e35d37-0fc2-4f71-b4db-5c41e257965f" name="Changes" comment="added scribes logo">
-      <change afterPath="$PROJECT_DIR$/carl-footer.html" afterDir="false" />
+    <list default="true" id="24e35d37-0fc2-4f71-b4db-5c41e257965f" name="Changes" comment="1st Code commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carl-footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/carl-footer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,23 +34,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000001102578" />
-      <entry key="S10" value="1.0000105038509945" />
-      <entry key="S30" value="1.0247151821047886" />
-      <entry key="S60" value="1.238158114090897" />
-      <entry key="M2" value="1.9021210560454627" />
-      <entry key="M5" value="3.185102518141922" />
-      <entry key="M10" value="4.395948103557759" />
-      <entry key="M15" value="5.578986739902738" />
-      <entry key="M30" value="8.425966498908803" />
-      <entry key="H1" value="11.279958554781551" />
-      <entry key="H2" value="13.341717326398085" />
-      <entry key="H4" value="14.58616754490289" />
-      <entry key="D1" value="15.751625765621212" />
-      <entry key="W1" value="15.964192546097731" />
+      <entry key="MS100" value="1.000000000000006" />
+      <entry key="MS500" value="1.0017837349783607" />
+      <entry key="S2" value="1.3712165252855013" />
+      <entry key="S5" value="2.5672371795345894" />
+      <entry key="S10" value="4.368280321441421" />
+      <entry key="S30" value="8.435474896816455" />
+      <entry key="S60" value="10.683290936034705" />
+      <entry key="M2" value="12.445965682101388" />
+      <entry key="M5" value="15.154586285101825" />
+      <entry key="M10" value="17.82588968775607" />
+      <entry key="M15" value="19.713140523792834" />
+      <entry key="M30" value="23.585739799722504" />
+      <entry key="H1" value="27.405681543400178" />
+      <entry key="H2" value="30.237704348301822" />
+      <entry key="H4" value="31.983164134463394" />
+      <entry key="D1" value="33.64309361954641" />
+      <entry key="W1" value="33.948477636908166" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -71,23 +72,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8766057213160351" />
-      <entry key="MS500" value="0.974004268543241" />
-      <entry key="S2" value="0.9934367347173356" />
-      <entry key="S5" value="0.9973695066508921" />
-      <entry key="S10" value="0.9986943728582929" />
-      <entry key="S30" value="1.024261578962146" />
-      <entry key="S60" value="1.2378603568869704" />
-      <entry key="M2" value="1.901849238404507" />
-      <entry key="M5" value="3.1848909079445478" />
-      <entry key="M10" value="4.395779825152974" />
-      <entry key="M15" value="5.578825380390165" />
-      <entry key="M30" value="8.425822819019888" />
-      <entry key="H1" value="11.27985440457764" />
-      <entry key="H2" value="13.341653497328688" />
-      <entry key="H4" value="14.58613207337927" />
-      <entry key="D1" value="15.751619297695285" />
-      <entry key="W1" value="15.964191607611145" />
+      <entry key="MS100" value="0.7791645796605045" />
+      <entry key="MS500" value="0.9526821039654018" />
+      <entry key="S2" value="1.2453953025035482" />
+      <entry key="S5" value="2.2800114765443458" />
+      <entry key="S10" value="4.005625688193599" />
+      <entry key="S30" value="8.11384983766915" />
+      <entry key="S60" value="10.463440165404515" />
+      <entry key="M2" value="12.316021942718715" />
+      <entry key="M5" value="15.09687237870706" />
+      <entry key="M10" value="17.795940795727642" />
+      <entry key="M15" value="19.692892512855444" />
+      <entry key="M30" value="23.575432172807787" />
+      <entry key="H1" value="27.40046087187097" />
+      <entry key="H2" value="30.23507208963088" />
+      <entry key="H4" value="31.9818415885617" />
+      <entry key="D1" value="33.64287220654755" />
+      <entry key="W1" value="33.948445980853215" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -143,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1789894591020</updated>
       <workItem from="1789894592062" duration="1108000" />
-      <workItem from="1789897332105" duration="2841000" />
+      <workItem from="1789897332105" duration="3462000" />
     </task>
     <task id="LOCAL-00001" summary="images created">
       <option name="closed" value="true" />
@@ -169,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789897818456</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1st Code commit">
+      <option name="closed" value="true" />
+      <created>1789900811833</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1789900811834</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +198,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="images created" />
     <MESSAGE value="added scribes logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="added scribes logo" />
+    <MESSAGE value="1st Code commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st Code commit" />
   </component>
 </project>
