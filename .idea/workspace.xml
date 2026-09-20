@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24e35d37-0fc2-4f71-b4db-5c41e257965f" name="Changes" comment="Added General Email Logo">
-      <change afterPath="$PROJECT_DIR$/general-footer.html" afterDir="false" />
-    </list>
+    <list default="true" id="24e35d37-0fc2-4f71-b4db-5c41e257965f" name="Changes" comment="Added General Email Footer Code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,23 +31,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0001757747933326" />
-      <entry key="MS500" value="1.3326822227223438" />
-      <entry key="S2" value="3.4404312802380375" />
-      <entry key="S5" value="5.100292068599889" />
-      <entry key="S10" value="5.941813396394665" />
-      <entry key="S30" value="6.696617852699204" />
-      <entry key="S60" value="8.08018973570246" />
-      <entry key="M2" value="12.658087182443381" />
-      <entry key="M5" value="24.609145081636786" />
-      <entry key="M10" value="37.957313500998914" />
-      <entry key="M15" value="47.117142501716415" />
-      <entry key="M30" value="63.08450958767422" />
-      <entry key="H1" value="76.7444579698417" />
-      <entry key="H2" value="86.37382921388236" />
-      <entry key="H4" value="92.23640713043282" />
-      <entry key="D1" value="97.80220387001945" />
-      <entry key="W1" value="98.82704287874921" />
+      <entry key="MS100" value="1.0281201701933484" />
+      <entry key="MS500" value="1.8336886491385158" />
+      <entry key="S2" value="4.522724169533429" />
+      <entry key="S5" value="6.93505111104203" />
+      <entry key="S10" value="8.517928805297245" />
+      <entry key="S30" value="10.698414941420948" />
+      <entry key="S60" value="13.044774160781282" />
+      <entry key="M2" value="17.85240895030029" />
+      <entry key="M5" value="30.434495673867122" />
+      <entry key="M10" value="44.76942382753068" />
+      <entry key="M15" value="54.594498655709096" />
+      <entry key="M30" value="71.68732416269633" />
+      <entry key="H1" value="86.27430683648788" />
+      <entry key="H2" value="96.54311745154179" />
+      <entry key="H4" value="102.7919473788189" />
+      <entry key="D1" value="108.72352265931542" />
+      <entry key="W1" value="109.815681588025" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -71,23 +69,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9594286859352052" />
-      <entry key="MS500" value="1.286787610410718" />
-      <entry key="S2" value="3.334352155046866" />
-      <entry key="S5" value="5.031221930056783" />
-      <entry key="S10" value="5.901104801859924" />
-      <entry key="S30" value="6.681373056941032" />
-      <entry key="S60" value="8.071621551926315" />
-      <entry key="M2" value="12.652375338865928" />
-      <entry key="M5" value="24.604823885458323" />
-      <entry key="M10" value="37.95159809875623" />
-      <entry key="M15" value="47.11066560739202" />
-      <entry key="M30" value="63.0785234838118" />
-      <entry key="H1" value="76.7402834204348" />
-      <entry key="H2" value="86.37134937210098" />
-      <entry key="H4" value="92.23505353599579" />
-      <entry key="D1" value="97.80196096227601" />
-      <entry key="W1" value="98.82700773236613" />
+      <entry key="MS100" value="0.9790585159852794" />
+      <entry key="MS500" value="1.7955767672133196" />
+      <entry key="S2" value="4.426904067689145" />
+      <entry key="S5" value="6.86767258661573" />
+      <entry key="S10" value="8.476903005071462" />
+      <entry key="S30" value="10.681274745451155" />
+      <entry key="S60" value="13.033988839642541" />
+      <entry key="M2" value="17.845089822182324" />
+      <entry key="M5" value="30.429403448982907" />
+      <entry key="M10" value="44.76349759440569" />
+      <entry key="M15" value="54.5879448638107" />
+      <entry key="M30" value="71.68128538536217" />
+      <entry key="H1" value="86.27007245983661" />
+      <entry key="H2" value="96.5405916541961" />
+      <entry key="H4" value="102.79056542984978" />
+      <entry key="D1" value="108.7232741379035" />
+      <entry key="W1" value="109.81564561590714" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -153,7 +151,7 @@
       <workItem from="1789897332105" duration="5150000" />
       <workItem from="1789904638854" duration="8000" />
       <workItem from="1789904656411" duration="4000" />
-      <workItem from="1789904681964" duration="306000" />
+      <workItem from="1789904681964" duration="430000" />
     </task>
     <task id="LOCAL-00001" summary="images created">
       <option name="closed" value="true" />
@@ -211,7 +209,23 @@
       <option name="project" value="LOCAL" />
       <updated>1789904985951</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added General Email Footer Code">
+      <option name="closed" value="true" />
+      <created>1789905086818</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1789905086818</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added General Email Footer Code">
+      <option name="closed" value="true" />
+      <created>1789905106745</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1789905106745</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +249,7 @@
     <MESSAGE value="Code Clean Up" />
     <MESSAGE value="Added all three html footers to project" />
     <MESSAGE value="Added General Email Logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added General Email Logo" />
+    <MESSAGE value="Added General Email Footer Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added General Email Footer Code" />
   </component>
 </project>
